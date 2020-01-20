@@ -1,6 +1,6 @@
 Package: tsna
-Version: 0.3.0
-Date: 2019-05-22
+Version: 0.3.1
+Date: 2020-01-19
 Title: Tools for Temporal Social Network Analysis
 Type: Package
 Authors@R: c(
@@ -18,10 +18,10 @@ LazyLoad: yes
 URL: http://statnet.org
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2019-05-27 20:02:19 UTC; skyebend
+Packaged: 2020-01-20 00:16:45 UTC; skyebend
 Author: Skye Bender-deMoll [aut, cre],
   Martina Morris [aut],
   James Moody [ctb]
 Maintainer: Skye Bender-deMoll <skyebend@uw.edu>
 Repository: CRAN
-Date/Publication: 2019-05-29 07:40:03 UTC
+Date/Publication: 2020-01-20 20:00:02 UTC
