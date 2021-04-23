@@ -1,6 +1,6 @@
 Package: tsna
-Version: 0.3.1
-Date: 2020-01-19
+Version: 0.3.3
+Date: 2021-04-23
 Title: Tools for Temporal Social Network Analysis
 Type: Package
 Authors@R: c(
@@ -10,18 +10,18 @@ Authors@R: c(
            )
 Depends: network (>= 1.13), networkDynamic (>= 0.9), R (>= 3.0)
 Imports: statnet.common
-Suggests: networkDynamicData, testthat, sna, knitr, relevent, ergm (>=
-        3.10)
+Suggests: networkDynamicData, testthat, sna, knitr, rmarkdown,
+        relevent, ergm (>= 3.10)
 Description: Temporal SNA tools for continuous- and discrete-time longitudinal networks having vertex, edge, and attribute dynamics stored in the 'networkDynamic' format. This work was supported by grant R01HD68395 from the National Institute of Health.
 License: GPL-3
 LazyLoad: yes
 URL: http://statnet.org
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2020-01-20 00:16:45 UTC; skyebend
+Packaged: 2021-04-23 18:22:22 UTC; skyebend
 Author: Skye Bender-deMoll [aut, cre],
   Martina Morris [aut],
   James Moody [ctb]
 Maintainer: Skye Bender-deMoll <skyebend@uw.edu>
 Repository: CRAN
-Date/Publication: 2020-01-20 20:00:02 UTC
+Date/Publication: 2021-04-23 19:50:02 UTC

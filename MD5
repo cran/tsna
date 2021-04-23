@@ -1,5 +1,5 @@
-ae31a58f52c3d62734372d5acff7633a *ChangeLog
-e6a16733e7a485f0cb76859e968c9600 *DESCRIPTION
+f9d737fc3bee9333bef3d0e3fa767380 *ChangeLog
+8fc4d0413fa26e6d52b5b491d3eead26 *DESCRIPTION
 a9b7fd91dddee1904b3309f7a943f99e *NAMESPACE
 393cbad7dcae74eb218a81f76254a52b *R/degree.R
 cc4aa104b5725dd5cba18e457908c081 *R/density.R
@@ -12,12 +12,12 @@ a0627fe62f76c347d3fdf16eddfeb727 *R/reachable.R
 131919c2794a682d1da21bca11a74c4e *R/summaryStats.R
 bfeb90e730f5dee676b92eb30458a775 *R/timeProjectedNetwork.R
 54643eb3baad0411deb1616eb2aec977 *R/utils.R
-88373c4c63cf0ac231a9688959a4e132 *README.md
-348bc2684ea0af705e89a60f4d322b90 *build/vignette.rds
+514c2a08161850299a399417654f5f66 *README.md
+dc5c87d87664e5047a7a01cac761aef4 *build/vignette.rds
 ca2601804d630c7127cf0b12e1000bbe *data/moodyContactSim.rda
 957d4e9fd428b387ee73aabcaedf50b1 *inst/doc/tsna_vignette.R
-c312197695d7b28e3e323cd284a45df7 *inst/doc/tsna_vignette.Rmd
-eee1a6314e711762435866aaec91a9d4 *inst/doc/tsna_vignette.html
+d04bb3b7de0bdaa1b3e0bc6e0622e6bf *inst/doc/tsna_vignette.Rmd
+109a8c4104283f7b616092c225b0be04 *inst/doc/tsna_vignette.html
 b1395a47ece87bfda8642af1c4fc8d9d *man/create_tree.Rd
 0709419aed64f87ed2b3b6f70a6f58d6 *man/density.Rd
 84ece53d9eff1ac7141f630d0a2810fe *man/durations.Rd
@@ -43,4 +43,4 @@ ea14dbf89a5832f53a30daf3c240010e *tests/durations_tests.R
 eed85dd341d99a62949a4b86b0ea268a *tests/reachable_tests.R
 1968c100bfa5a3bda5b940f081b5e706 *tests/statsWrapper_tests.R
 b86fb18fca28b56d8059d724afdc3f14 *tests/timeProjectedNetwork_tests.R
-c312197695d7b28e3e323cd284a45df7 *vignettes/tsna_vignette.Rmd
+d04bb3b7de0bdaa1b3e0bc6e0622e6bf *vignettes/tsna_vignette.Rmd
